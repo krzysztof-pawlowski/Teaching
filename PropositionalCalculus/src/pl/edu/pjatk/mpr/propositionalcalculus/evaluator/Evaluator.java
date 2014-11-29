@@ -21,8 +21,6 @@ public class Evaluator {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		//String formula = "p impl q equiv neg p impl neg q";
-		//String formula = "p or q\u001a";
 		
 		InputStream is = System.in;
         ANTLRInputStream input = new ANTLRInputStream(is);
