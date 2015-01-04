@@ -18,7 +18,7 @@ s2: s3               # s2Node
   | s2 'impl' s3     # impl
   ;
 s: s2                # sNode
-  | s 'equiv' s2    # equiv 
+  | s 'equiv' s2     # equiv 
   ;
 
 WS : [ \t\r\n]+ -> skip ;

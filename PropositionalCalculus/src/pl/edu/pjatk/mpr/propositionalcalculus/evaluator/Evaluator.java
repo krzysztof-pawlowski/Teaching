@@ -1,6 +1,5 @@
 package pl.edu.pjatk.mpr.propositionalcalculus.evaluator;
 
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
@@ -26,13 +25,16 @@ public class Evaluator {
         ANTLRInputStream input = new ANTLRInputStream(is);
 		
 		boolean pValue = true;
-		boolean qvalue = false;
+		boolean qValue = false;
 		
 		ParseTree tree = generateParseTree(input);
 		
-		EvalVisitor evalVisitor = new EvalVisitor(pValue, qvalue);
+		EvalVisitor evalVisitor = new EvalVisitor(pValue, qValue);
+		
 		Boolean result = evalVisitor.visit(tree);
+		
 		System.out.println(result);
+		
 	}
 	
 }
