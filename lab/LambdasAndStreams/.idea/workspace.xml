@@ -40,9 +40,13 @@
       <file leaf-file-name="CapitalLettersTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/edu/pjatk/mpr/lambdas/streams/CapitalLettersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="870">
+              <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,12 +54,14 @@
       <file leaf-file-name="CapitalLetters.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/edu/pjatk/mpr/lambdas/streams/CapitalLetters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36290324" vertical-offset="0" max-vertical-offset="496">
-              <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.7258065" vertical-offset="0" max-vertical-offset="540">
+              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -549,12 +555,12 @@
       <created>1442347769604</created>
       <option name="number" value="Default" />
       <updated>1442347769604</updated>
-      <workItem from="1442347771539" duration="1385000" />
+      <workItem from="1442347771539" duration="2519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1385000" />
+    <option name="totallyTimeSpent" value="2519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1397" height="877" extended-state="6" />
@@ -626,20 +632,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/edu/pjatk/mpr/lambdas/streams/CapitalLettersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="870">
+          <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/edu/pjatk/mpr/lambdas/streams/CapitalLetters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36290324" vertical-offset="0" max-vertical-offset="496">
-          <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.7258065" vertical-offset="0" max-vertical-offset="540">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -35,5 +35,18 @@ public class CapitalLettersTest {
         assertThat(result, is(equalTo(expectedOutput)));
     }
 
+    @Test
+    public void testCapitalizeWordsInListAndJoinOnHyphen() {
+        // GIVEN
+        List<String> inputList = Arrays.asList("One", "two", "tHree");
+        String expectedOutput = "ONE-TWO-THREE";
+
+        // WHEN
+        String result = capitalLetters.capitalizeWordsInListAndJoinOnHyphen(inputList);
+
+        // THEN
+        assertThat(result, is(equalTo(expectedOutput)));
+    }
+
 
 }
