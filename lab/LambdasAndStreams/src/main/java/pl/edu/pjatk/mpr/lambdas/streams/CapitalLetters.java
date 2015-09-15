@@ -22,7 +22,7 @@ public class CapitalLetters {
      * Creates a string with capitalized words joined with '-' from
      * the input list.
      * @param inputList The list of input words.
-     * @return 
+     * @return Concatenated word with hyphens.
      */
     public String capitalizeWordsInListAndJoinOnHyphen(List<String> inputList) {
         throw new NotImplementedException();
